@@ -13,18 +13,5 @@
            android:layout_weight="1"
            android:text="This is fragment No.1"
            android:textStyle="bold" />
-       <Button
-           android:id="@+id/button1"
-           android:layout_width="fill_parent"
-           android:layout_height="wrap_content"
-           android:text="Button No.1"
-           android:onClick="selectFrag" />
-
-       <Button
-           android:id="@+id/button2"
-           android:layout_width="fill_parent"
-           android:layout_height="wrap_content"
-           android:onClick="selectFrag"
-           android:text="Button No.2" />
 
 </LinearLayout>

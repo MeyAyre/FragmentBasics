@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5d218740853895b9e63ccab224197ca09982e926">
+        <dex dex="/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ea413a236334985f76b37c9a401bcf907220bf43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a96e7d41f5f17e7216244212ef8c2c987db0e604">
+        <dex dex="/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_10c9078b5b37b164ac0b2ec9c5834a355dfb410b/classes.dex" />
+    </item>
+
+</items>

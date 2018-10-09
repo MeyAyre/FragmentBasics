@@ -8,6 +8,17 @@ import android.view.View;
 import android.view.ViewGroup;
 
 public class FragmentOne extends Fragment {
+
+    public FragmentOne(){} //Empty constructor
+
+    //Factory Instance Method
+    public static FragmentOne newInstance(){
+        FragmentOne myFragment =  new FragmentOne();
+
+        return myFragment;
+    }
+
+
    @Override
    public View onCreateView(LayoutInflater inflater,
       ViewGroup container, Bundle savedInstanceState) {
