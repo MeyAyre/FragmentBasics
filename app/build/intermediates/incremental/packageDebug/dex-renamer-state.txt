@@ -1,0 +1,7 @@
+#Mon Oct 03 12:57:29 PDT 2016
+base.0=/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_10c9078b5b37b164ac0b2ec9c5834a355dfb410b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ea413a236334985f76b37c9a401bcf907220bf43/classes.dex
+base.1=/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ea413a236334985f76b37c9a401bcf907220bf43
+file.0=/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_10c9078b5b37b164ac0b2ec9c5834a355dfb410b/classes.dex

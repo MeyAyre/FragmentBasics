@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="1405655354130962"
+    token="1170421061589844721"
+    verifier="R_CLASS_CHANGE" >
+
+    <task
+        name="javac"
+        duration="49" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="25" />
+    <task
+        name="verifier"
+        duration="6" />
+
+    <artifact
+        location="/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="1405184916846897"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1405655354130962"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

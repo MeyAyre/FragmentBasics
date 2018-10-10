@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/build/intermediates/res/merged/debug/layout/fragment_two.xml",
+        "source": "/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/src/main/res/layout/fragment_two.xml"
+    },
+    {
+        "merged": "/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/build/intermediates/res/merged/debug/layout/fragment_one.xml",
+        "source": "/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/src/main/res/layout/fragment_one.xml"
+    },
+    {
+        "merged": "/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/brianb/Courses/BIT 272/Exercises on Github/FragmentBasics/app/src/main/res/layout/activity_main.xml"
+    }
+]
